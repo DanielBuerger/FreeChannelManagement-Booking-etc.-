@@ -1,4 +1,4 @@
-# FreeChannelManagement-Booking-etc.-
+﻿# FreeChannelManagement-Booking-etc.-
 An easy and quick way to connect your room availabilities with your own calendar and share it with your employees.
 
 ## Introduction 
@@ -16,6 +16,7 @@ Since you we couldn't find any appropriate channel manager for free, we now use 
 ### Set Up
 
 First of all you need a google account. We created a new one for our buissness.
+[](Images/login%20eng)
 
 Open up your Google calendar:
 https://calendar.google.com/calendar/r
