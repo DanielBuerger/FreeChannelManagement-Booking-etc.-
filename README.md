@@ -16,16 +16,36 @@ Since you we couldn't find any appropriate channel manager for free, we now use 
 ### Set Up
 
 First of all you need a google account. We created a new one for our buissness.
-![tet](Images/login%20eng.png)
+Now, open up your Google calendar: https://calendar.google.com/calendar/r
 
-Open up your Google calendar:
-https://calendar.google.com/calendar/r
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/login%20eng.PNG">
 
-Here you see some prepared calendars, you can delete those by following the gear in the top right corner.
+Here you see some prepared calendars, you can delete those by following the gear in the top right corner, then select settings.
+<img align="center" height="500" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/calendarstart.PNG">
 
-Now we add our first room, by Add another calendar -> New calendar
+Click on the calendar that you want to delete and choose 'Remove calendar' and confirm it.
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/deletecalendar.PNG">
+
+Go back to the overview. Now we add our first room, by clicking on the Plus -> New calendar
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/addnewcalender.PNG">
+
+You should name the calendar according to your rooms. Room 0, we will use this calendar for all manual bookings, by mail, by phone etc. 
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/addcalendar.PNG">
+
 
 ### Sync Booking
+
+Net step is to sync this calendar with the calendar of our room 0 on booking.com. Therefore log in to your facility managment: https://admin.booking.com/ and go to your calendar overview.
+
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/bookingmenu.PNG">
+
+Click on the room that you want to synchronise, use 'sync calendar', 'eport calendar' and choose to just 'sync my bookings'. Now, copy the link.
+
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/importcalendar.PNG"><img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/eportcalendar2.PNG">
+
+Go to google calendar and add another calendar. This time choose calendar by URL, enter a name like 'room 0 booking' and paste the link from booking.com.
+
+
 
 
 
