@@ -56,7 +56,7 @@ Net step is to sync this calendar with the calendar of our room 02 on booking.co
 
 <img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/bookingmenu.PNG">
 
-Click on the room that you want to synchronise, use 'sync calendar', 'eport calendar' and choose to just 'sync my bookings'. Now, copy the link.
+Click on the room that you want to synchronise, use 'sync calendar', 'export calendar' and choose to just 'sync my bookings'. Now, copy the link.
 
 <img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/importcalendar.PNG"><img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/eportcalendar2.PNG">
 
