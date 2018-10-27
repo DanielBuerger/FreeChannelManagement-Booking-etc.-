@@ -11,26 +11,42 @@ Since you we couldn't find any appropriate channel manager for free, we now use 
 + completly free
 - updates can be to slow for short note bookings (5 hours before arrival)
 
+### How does it look in the end?
+<img align="center" height="500" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/final.PNG">
+
+
 ## How to use it?
 
 ### Set Up
+<img align="right" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/login%20eng.PNG">
+https://calendar.google.com/calendar/r
 
-First of all you need a google account. We created a new one for our buissness.
-Now, open up your Google calendar: https://calendar.google.com/calendar/r
+#### 1 Google account
+First of all you need a google account. 
+We created a new one for our buissness.
+Now, open up your Google calendar.
 
 <img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/login%20eng.PNG">
 
+#### 2 Delete calendars
 Here you see some prepared calendars, you can delete those by following the gear in the top right corner, then select settings.
 <img align="center" height="500" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/calendarstart.PNG">
 
 Click on the calendar that you want to delete and choose 'Remove calendar' and confirm it.
-<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/deletecalendar.PNG">
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/deletecalendars.PNG">
 
+#### 3 Add new room
 Go back to the overview. Now we add our first room, by clicking on the Plus -> New calendar
-<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/addnewcalender.PNG">
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/addnewcalendar.PNG">
 
-You should name the calendar according to your rooms. Room 0, we will use this calendar for all manual bookings, by mail, by phone etc. 
-<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/addcalendar.PNG">
+You should name the calendar according to your rooms. Room 0, we will use this calendar for all manual bookings, by mail, by phone etc.
+
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/create%20new%20calendar.PNG">
+
+#### 4 Set colors
+To recognise quickly which room is booked, we set same colors for the manual, airbnb and booking calendar of each room.
+
+<img align="center" height="300" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/color.PNG">
 
 
 ### Sync Booking
