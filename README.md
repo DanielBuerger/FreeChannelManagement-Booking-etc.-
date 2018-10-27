@@ -72,4 +72,4 @@ Go to your Google calendar room 02 and enter the settings. Scroll down until you
 
 Copy the 'secret address in ICali format', go to your booking.com calendar, choose import and paste the link.
 
-## Done, you now have your own free channel manager. 
+## Done, you now have your own free 'channel manager'. 
