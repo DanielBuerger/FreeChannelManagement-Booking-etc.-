@@ -2,16 +2,17 @@
 An easy and quick way to connect your room availabilities with your own calendar and share it with your employees.
 
 ## Introduction 
-We needed a cheap and quick way to synconize all our channels like booking.com, airbnb and our own website automatically.
-There are some good Channel Manager available but we have only 14 rooms and it would cost us 89 € per month by using one of the major channelmanager, just to sync those.
+We needed a cheap and quick way to synchronize all our calendars from booking.com, airbnb and our own website automatically.
+There are some good channel manager available but we have only 14 rooms and it would cost us 89 € per month to use one of the major channel manager, just to sync those calendars on its own.
 
-Since we couldn't find any appropriate channel manager for free, we now use google calendar. 
+Since we couldn't find any appropriate channel manager for free, we now use Google calendar. 
 * \+ synchronize automatically
-* \+ shareable to our employees
+* \+ cloud storage- shareable to our employees
 * \+ completly free
 * \+ mobile app included
-* \- updates can be to slow for short note bookings (5 hours before arrival)
-* \- some little details like booking only transfers 'closed' and the room as information 
+* \+ cloud storage - accessible from everywhere
+* \- updates can be to slow for short note bookings (i.e. 4 hours before arrival)
+* \- some little details like booking only transfers 'closed' and the booked room as meta data 
 
 ### How does it look in the end?
 <img align="center" height="500" src="https://github.com/DanielBuerger/FreeChannelManagement-Booking-etc.-/blob/master/Images/final.PNG">
